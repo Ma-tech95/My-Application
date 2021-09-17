@@ -19,8 +19,6 @@ class MainActivity : AppCompatActivity() {
 
                 val aaaList = arrayListOf("aaa11111","aaa22222","aaa33333")
 
-
-
                 aaaList.forEach{
                     it.removePrefix("aaa")
                 }
