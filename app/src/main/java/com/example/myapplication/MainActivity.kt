@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         fun removeAAA(){
             btnClick.setOnClickListener {
 
-                val aaaList = arrayListOf("aaa1111","aaa2222","aaa3333")
+                val aaaList = arrayListOf("aaa11111","aaa22222","aaa33333")
 
 
 
